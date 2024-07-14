@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Yaniv\Desktop\New folder (16)\Graphics\Graphics\main.cpp(60,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Graphics.vcxproj -> C:\Users\Yaniv\Desktop\New folder (16)\Graphics\Debug\Graphics.exe

@@ -1,0 +1,1 @@
+#include "CompareAStar.h"
